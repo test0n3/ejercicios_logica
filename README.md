@@ -5,7 +5,7 @@ Ejercicios para poner a prueba el pensamiento lógico, resolución de problemas 
 
 ## Ejercicios
 - [x] [Reto #1: Two Sum](./reto01-two-sum/README.md)
-- [x] [Reto #2: Palidrome Number](./reto02-palindrome-number/README.md)
+- [x] [Reto #2: Palindrome Number](./reto02-palindrome-number/README.md)
 - [x] [Reto #3: Two Sum II - Input array is sorted](./reto03-two-sum-II-input-array-is-sorted/README.md)
 
 ## Ejecución
