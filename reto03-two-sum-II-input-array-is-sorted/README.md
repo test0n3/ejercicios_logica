@@ -12,7 +12,7 @@ Dada una lista de enteros `numbers` que ya está ordenada en orden ascendente y 
 
 
 ### [Java](./java/TwoSum.java)
-Directorio contiene el procedimiento en lenguaje Java. Para ejecutar se requiere JDK y correr lo siguiente en terminal:
+Directorio contiene el procedimiento en lenguaje Java. Para ejecutar se requiere [JDK](https://www.oracle.com/java/technologies/downloads/) y correr lo siguiente en terminal:
 ```bash
 javac TwoSum.java
 ```
@@ -24,10 +24,10 @@ java TwoSum
 ### [JavaScript](./javascript/twoSum.js)
 Directorio contiene el procedimiento en lenguaje JavaScript. Para ejecutar el código se puede copiar y pegar en la consola del navegador.
 
-O se puede usar [NodeJS]() y ejecutar en terminal:
+O se puede usar [NodeJS](https://nodejs.org/en) y ejecutar en terminal:
 ```bash
 node twoSum.js
 ```
 
 ### [Ruby](./ruby/two_sum.rb)
-Directorio contiene el procedimiento en lenguaje Ruby. Es complicado instalar el lenguaje Ruby en Windows, por lo que es recomendable usar alguna aplicación web como [JDoodle](), copiar y pagar el código, y ejecutarlo.
+Directorio contiene el procedimiento en lenguaje [Ruby](https://www.ruby-lang.org/en/). Es complicado instalar el lenguaje Ruby en Windows, por lo que es recomendable usar alguna aplicación web como [JDoodle](https://www.jdoodle.com/execute-ruby-online), copiar y pagar el código, y ejecutarlo.

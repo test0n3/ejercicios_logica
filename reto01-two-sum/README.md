@@ -30,4 +30,4 @@ node twoSum.js
 ```
 
 ### [Ruby](./ruby/two_sum.rb)
-Directorio contiene el procedimiento en lenguaje [Ruby](https://www.ruby-lang.org/en/). Es complicado instalar el lenguaje Ruby en Windows, por lo que es recomendable usar alguna aplicación web como [JDoodle](), copiar y pagar el código, y ejecutarlo.
+Directorio contiene el procedimiento en lenguaje [Ruby](https://www.ruby-lang.org/en/). Es complicado instalar el lenguaje Ruby en Windows, por lo que es recomendable usar alguna aplicación web como [JDoodle](https://www.jdoodle.com/execute-ruby-online), copiar y pagar el código, y ejecutarlo.
